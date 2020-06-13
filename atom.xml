@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>传说当中的帅锅副站</title>
+  
+  
+  <link href="/shuaiguo/atom.xml" rel="self"/>
+  
+  <link href="http://zzjzxq.gitee.io/shuaiguo/"/>
+  <updated>2020-06-13T01:16:43.576Z</updated>
+  <id>http://zzjzxq.gitee.io/shuaiguo/</id>
+  
+  <author>
+    <name>我是XXX</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows 7 x64 WIM 旗舰版本 （2020.2.17更新）</title>
+    <link href="http://zzjzxq.gitee.io/shuaiguo/2020/06/13/win7/"/>
+    <id>http://zzjzxq.gitee.io/shuaiguo/2020/06/13/win7/</id>
+    <published>2020-06-13T00:31:40.000Z</published>
+    <updated>2020-06-13T01:16:43.576Z</updated>
+    
+    <content type="html"><![CDATA[<img src="https://4mvts8.coding-pages.com/ABUIABAEGAAg1O2Z9gUoxvCUwgcwgA84uAg.png"># 主要特点- 对任务管理器的查看进程进行了设置，可以看到CPU、硬盘、内存的占用，如同win10一样- 并且对开关机速度做了优化- 本系统可以强制拦截2345主页及软件捆绑，使其无法后台安装（证书禁用）- 视频演示地址：[https://www.bilibili.com/video/BV1Xi4y1t7Vs]<font color="red">注意：1、Uefi、USB3.0和八代以上的因特尔CPU的新电脑请勿下载，还未支持！<br>2、安装系统之后火绒会拦截一个东西，允许拒绝随便大家选择，就是IE收藏夹里面的东西，不是病毒。</font># 下载<h2><font color="red">完整</font>版64位下载（4.24GB）</h2>注意：完整版没有32位系统！<br><a href="https://4mvts8.coding-pages.com/完整版win7封装下载器.exe" target="_blank" rel="noopener">完整版封装下载器</a><h2><font color="red">精简</font>版32位下载（1.56GB）</h2>注意：精简版没有64位系统！（这个是2020.3.2更新的）<br><a href="https://4mvts8.coding-pages.com/精简版win7封装下载器.exe" target="_blank" rel="noopener">精简版封装下载器</a><br><h3>什么是精简版？</h3>- 割了一些系统功能- 适用于服务器、一卡通、操作机器的系统- 使用官方精简系统 Thin PC 制作# 全部修改内容<img src="https://4mvts8.coding-pages.com/ABUIABAEGAAgx5Gv7QUo6OPS3QEw0AI4_AU.png">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;https://4mvts8.coding-pages.com/ABUIABAEGAAg1O2Z9gUoxvCUwgcwgA84uAg.png&quot;&gt;
+# 主要特点
+- 对任务管理器的查看进程进行了设置，可以看到CPU、硬盘、内存的占用，如同win10一样
+- 并
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://zzjzxq.gitee.io/shuaiguo/2020/06/13/hello-world/"/>
+    <id>http://zzjzxq.gitee.io/shuaiguo/2020/06/13/hello-world/</id>
+    <published>2020-06-12T23:36:54.729Z</published>
+    <updated>2020-06-12T23:36:54.729Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
