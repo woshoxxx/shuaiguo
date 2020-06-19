@@ -6,7 +6,7 @@
   <link href="/shuaiguo/atom.xml" rel="self"/>
   
   <link href="http://zzjzxq.gitee.io/shuaiguo/"/>
-  <updated>2020-06-13T01:28:59.645Z</updated>
+  <updated>2020-06-14T04:10:23.584Z</updated>
   <id>http://zzjzxq.gitee.io/shuaiguo/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Windows 7 x64 WIM 旗舰版本 （2020.2.17更新）</title>
+    <title>Win10专区</title>
+    <link href="http://zzjzxq.gitee.io/shuaiguo/2020/06/14/win10/"/>
+    <id>http://zzjzxq.gitee.io/shuaiguo/2020/06/14/win10/</id>
+    <published>2020-06-14T03:43:52.000Z</published>
+    <updated>2020-06-14T04:10:23.584Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Windows-10-x64-WIM-1903-专业完整版本（2019-10-12-更新）"><a href="#Windows-10-x64-WIM-1903-专业完整版本（2019-10-12-更新）" class="headerlink" title="Windows 10 x64 WIM 1903 专业完整版本（2019.10.12 更新）"></a>Windows 10 x64 WIM 1903 专业完整版本（2019.10.12 更新）</h1><h2 id="主要特点："><a href="#主要特点：" class="headerlink" title="主要特点："></a>主要特点：</h2><ul><li>已集成各种游戏运行库</li><li>对使用习惯做了很多优化设置</li><li>降低了系统对CPU和磁盘的占用。（机械盘也可以考虑安装）</li><li>这是1903版本，如果想要1909，请使用win更新安装，1909只是个补丁，并不是系统大更新！我的空间已辟谣！</li><li>视频演示：<iframe src="//player.bilibili.com/player.html?aid=71081086&bvid=BV1LE411d7VT&cid=123157540&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>## 下载（4.27GB）注意：本版本无32位系统！[完整版win10封装获取下载地址工具.exe]</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Windows-10-x64-WIM-1903-专业完整版本（2019-10-12-更新）&quot;&gt;&lt;a href=&quot;#Windows-10-x64-WIM-1903-专业完整版本（2019-10-12-更新）&quot; class=&quot;headerlink&quot; title=&quot;Wi
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Win7专区</title>
     <link href="http://zzjzxq.gitee.io/shuaiguo/2020/06/13/win7/"/>
     <id>http://zzjzxq.gitee.io/shuaiguo/2020/06/13/win7/</id>
     <published>2020-06-13T00:31:40.000Z</published>
-    <updated>2020-06-13T01:28:59.645Z</updated>
+    <updated>2020-06-14T03:45:51.002Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://4mvts8.coding-pages.com/ABUIABAEGAAg1O2Z9gUoxvCUwgcwgA84uAg.png" alt=""></p><h1 id="主要特点"><a href="#主要特点" class="headerlink" title="主要特点"></a>主要特点</h1><ul><li>对任务管理器的查看进程进行了设置，可以看到CPU、硬盘、内存的占用，如同win10一样</li><li>并且对开关机速度做了优化</li><li>本系统可以强制拦截2345主页及软件捆绑，使其无法后台安装（证书禁用）</li><li>视频演示地址：[<a href="https://www.bilibili.com/video/BV1Xi4y1t7Vs]" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1Xi4y1t7Vs]</a><br><font color="red">注意：1、Uefi、USB3.0和八代以上的因特尔CPU的新电脑请勿下载，还未支持！<br>2、安装系统之后火绒会拦截一个东西，允许拒绝随便大家选择，就是IE收藏夹里面的东西，不是病毒。</font><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="完整版64位下载（4-24GB）"><a href="#完整版64位下载（4-24GB）" class="headerlink" title="完整版64位下载（4.24GB）"></a>完整版64位下载（4.24GB）</h2>注意：完整版没有32位系统！<br><br><a href="https://4mvts8.coding-pages.com/完整版win7封装下载器.exe" target="_blank" rel="noopener">完整版封装下载器</a><h2 id="精简版32位下载（1-56GB）"><a href="#精简版32位下载（1-56GB）" class="headerlink" title="精简版32位下载（1.56GB）"></a>精简版32位下载（1.56GB）</h2>注意：精简版没有64位系统！（这个是2020.3.2更新的）<br><a href="https://4mvts8.coding-pages.com/精简版win7封装下载器.exe" target="_blank" rel="noopener">精简版封装下载器</a><h3 id="什么是精简版？"><a href="#什么是精简版？" class="headerlink" title="什么是精简版？"></a>什么是精简版？</h3></li><li>割了一些系统功能</li><li>适用于服务器、一卡通、操作机器的系统</li><li>使用官方精简系统 Thin PC 制作<h1 id="全部修改内容"><a href="#全部修改内容" class="headerlink" title="全部修改内容"></a>全部修改内容</h1><img src="https://4mvts8.coding-pages.com/ABUIABAEGAAgx5Gv7QUo6OPS3QEw0AI4_AU.png" alt=""></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://4mvts8.coding-pages.com/ABUIABAEGAAg1O2Z9gUoxvCUwgcwgA84uAg.png" alt=""></p><h1 id="主要特点"><a href="#主要特点" class="headerlink" title="主要特点"></a>主要特点</h1><ul><li>对任务管理器的查看进程进行了设置，可以看到CPU、硬盘、内存的占用，如同win10一样</li><li>并且对开关机速度做了优化</li><li>本系统可以强制拦截2345主页及软件捆绑，使其无法后台安装（证书禁用）</li><li>视频演示：<iframe src="//player.bilibili.com/player.html?aid=540459813&bvid=BV1Xi4y1t7Vs&cid=183360424&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br><font color="red">注意：1、Uefi、USB3.0和八代以上的因特尔CPU的新电脑请勿下载，还未支持！<br>2、安装系统之后火绒会拦截一个东西，允许拒绝随便大家选择，就是IE收藏夹里面的东西，不是病毒。</font><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><h2 id="完整版64位下载（4-24GB）"><a href="#完整版64位下载（4-24GB）" class="headerlink" title="完整版64位下载（4.24GB）"></a>完整版64位下载（4.24GB）</h2>注意：完整版没有32位系统！<br><br><a href="https://4mvts8.coding-pages.com/完整版win7封装下载器.exe" target="_blank" rel="noopener">完整版封装下载器</a><h2 id="精简版32位下载（1-56GB）"><a href="#精简版32位下载（1-56GB）" class="headerlink" title="精简版32位下载（1.56GB）"></a>精简版32位下载（1.56GB）</h2>注意：精简版没有64位系统！（这个是2020.3.2更新的）<br><a href="https://4mvts8.coding-pages.com/精简版win7封装下载器.exe" target="_blank" rel="noopener">精简版封装下载器</a><h3 id="什么是精简版？"><a href="#什么是精简版？" class="headerlink" title="什么是精简版？"></a>什么是精简版？</h3></li><li>割了一些系统功能</li><li>适用于服务器、一卡通、操作机器的系统</li><li>使用官方精简系统 Thin PC 制作<h1 id="全部修改内容"><a href="#全部修改内容" class="headerlink" title="全部修改内容"></a>全部修改内容</h1><img src="https://4mvts8.coding-pages.com/ABUIABAEGAAgx5Gv7QUo6OPS3QEw0AI4_AU.png" alt=""></li></ul>]]></content>
     
     <summary type="html">
     
